@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+/* klasy specjalne stylizujące layout strony */
+
+.color-rgb-navbar {
+    text-decoration: none;
+    background-color: rgb(42, 45, 54);
+    color: white;
+}
+
+.nav-item-size {
+    margin: 3px;
+    width: 7rem;
+}
+
+.nav-item-border-active {
+    border: rgb(65, 69, 83) solid 2px;
+}
+
+.contact-eamil-section {
+    background-color: rgb(43, 45, 51);
+    color: rgb(221, 221, 221);
+}
+
+.contact-emial-text-size {
+    font-size: 28px;
+}
+
+.divs-stoper {
+    margin: 20px;
+}
+
+.parallax-effect {
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mrg-top {
+    margin-top: 40px;
+}
+
+.mrg-bottom {
+    margin-bottom: 15px;
+}
+
+.footer-beetwen-lines {
+    width: 11rem;
+    height: 3px;
+    background-color: rgb(255, 160, 19);
+}
+
+.circle-box {
+    background-color: rgb(190, 190, 190);
+    height: 200px;
+    width: 200px;
+}
+
+.circle-box:hover {
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    transform: scale(1.2);
+    transition: ease-in-out 0.5s;
+}
+
+.margin-auto {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pad-80 {
+    padding-top: 80px;
+}
+
+.pad-120 {
+    padding-top: 120px;
+}
+
+.marg-top {
+    margin-top: 100px;
+}
+
+.footer-section {
+    color: rgb(197, 197, 197);
+    padding-top: 20px;
+    opacity: 90%;
+    background-color: rgb(31, 31, 31);
+}
+
+.special-inner-heading-border {
+    width: 20rem;
+    height: 3px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 160, 19);
+}
+
+.text-format-contact {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+
+
+
+
+.test {
+    font-size: 70px;
+}
